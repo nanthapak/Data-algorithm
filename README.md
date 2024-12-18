@@ -1,4 +1,4 @@
 # Data and algorithm class
 
-CODE : are my code for the exercises in class  
-Package : contains the exercise template
+code : are my code for the exercises in class  
+package : contains the exercise template
